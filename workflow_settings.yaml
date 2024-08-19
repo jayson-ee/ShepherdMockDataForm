@@ -1,0 +1,5 @@
+defaultProject: bigquery-402616
+defaultLocation: US
+defaultDataset: zenlytic_staging_tables
+# defaultAssertionDataset: dataform_assertions
+
